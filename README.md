@@ -1,0 +1,3 @@
+# MeasureMate
+
+OpenCV (Open Source Computer Vision) is an open-source computer vision and machine learning library that allows developers to build applications that can process images and videos to detect and recognize objects, faces, and other features You can download the zip file and in the ide insall opencv and numpy then you can open the file in the ide and run the program.In this project the module takes the image of 2D objects in A4 sheet paper and returns the approximate length of the object. Photo.png is the image which consists an A4 sheet with the objects whose dimension is to be measured.
